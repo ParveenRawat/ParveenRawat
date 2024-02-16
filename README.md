@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+![banner](./banner.png)
 
 # 👋 Hi, I’m  Parveen Rawat
 
