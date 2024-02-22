@@ -39,7 +39,7 @@ I aspire to have a deeper understanding of programming languages, algorithms and
 
 ![top contribution](https://github-contributor-stats.vercel.app/api?username=ParveenRawat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![visits](https://visitcount.itsvg.in/api?id=ParveenRawat&icon=3&color=12)](https://visitcount.itsvg.in)
 </div>
+---
 I use arch btw.
